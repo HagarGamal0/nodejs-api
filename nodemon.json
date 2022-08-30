@@ -1,0 +1,13 @@
+{
+
+ "env" : {
+     
+    "MONGO_USER" : "admin-hagar",
+    "MONGO_PASS" :"test1234",
+    "MONGO_NAME" :"test",
+    "PORT" :"8080"
+
+
+ }
+
+}
